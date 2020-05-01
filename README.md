@@ -1,3 +1,3 @@
 # Course_Git
 these project for learn about github
-## aproject notes
+## project notes
